@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UdacityBusinessCard</string>
+
+    <string name="first_text">Master the most\ncompetitive skills</string>
+    <string name="second_text">Get hired by\nworld–changing\ncompanies</string>
+    <string name="third_text">Maximize your\nimpact</string>
+
+    <string name="adress">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="phone">650-555-5555</string>
+    <string name="site">www.udacity.com</string>
+</resources>
